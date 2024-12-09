@@ -19,7 +19,7 @@ Machine Learning Customer Prediction Project
 
 ## 🔴 Solution Overview
 
-![Solution](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG)
+![Solution](https://github.com/GeniXira/ML_Churn_Prediction/blob/main/MLProject-ChurnPrediction%20main%20images/Telco5.JPG)
 
 
 In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
