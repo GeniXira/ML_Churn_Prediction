@@ -1,6 +1,5 @@
 # ML_Churn_Prediction
 Machine Learning Customer Prediction Project
-# Customer Retention
 
 ## 🔴 What is Customer Churning ?
 
