@@ -7,7 +7,7 @@ Machine Learning Customer Prediction Project
 
 ## 🔴 What are the different Churn Scenarios ?
 
-![Churn Scenarios](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco2.JPG)
+![Churn Scenarios](https://github.com/GeniXira/ML_Churn_Prediction/blob/main/MLProject-ChurnPrediction%20main%20images/Telco2.JPG)
 
 ## 🔴 Decision Cycle of a Subscriber ?
 
