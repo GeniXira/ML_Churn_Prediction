@@ -3,7 +3,7 @@ Machine Learning Customer Prediction Project
 
 ## 🔴 What is Customer Churning ?
 
-![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
+![Customer Retention](https://github.com/GeniXira/ML_Churn_Prediction/blob/main/MLProject-ChurnPrediction%20main%20images/Telco1.JPG)
 
 ## 🔴 What are the different Churn Scenarios ?
 
