@@ -2,14 +2,6 @@
 Machine Learning Customer Prediction Project
 # Customer Retention
 
-## 🔴 Detailed Session on EDA:
-
-[![Alt text](https://user-images.githubusercontent.com/34673684/117579611-49cd5880-b126-11eb-9e2b-ef865c090808.png)](https://www.youtube.com/watch?v=baL7OrGWlxs)
-
-## 🔴 One of my previous Sessions on EDA, Model Building & Model Deployment: 
-
-[![Alt text](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)](https://www.youtube.com/watch?v=GVECbcKUio4)
-
 ## 🔴 What is Customer Churning ?
 
 ![Customer Retention](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco1.JPG)
@@ -31,7 +23,7 @@ Machine Learning Customer Prediction Project
 ![Solution](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco5.JPG)
 
 
-In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
+In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
 
 ### 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
 ### 🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
