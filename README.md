@@ -11,7 +11,7 @@ Machine Learning Customer Prediction Project
 
 ## 🔴 Decision Cycle of a Subscriber ?
 
-![Decision Cycle](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco3.JPG)
+![Decision Cycle](https://github.com/GeniXira/ML_Churn_Prediction/blob/main/MLProject-ChurnPrediction%20main%20images/Telco3.JPG)
 
 ## 🔴 What are the different Churn Segments ?
 
