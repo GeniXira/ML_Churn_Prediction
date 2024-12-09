@@ -15,7 +15,7 @@ Machine Learning Customer Prediction Project
 
 ## 🔴 What are the different Churn Segments ?
 
-![Churn Segments](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/Telco4.JPG)
+![Churn Segments](https://github.com/GeniXira/ML_Churn_Prediction/blob/main/MLProject-ChurnPrediction%20main%20images/Telco4.JPG)
 
 ## 🔴 Solution Overview
 
