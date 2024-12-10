@@ -1,5 +1,7 @@
 # ML_Churn_Prediction
 Machine Learning Customer Prediction Project
+![Customer Churn](https://github.com/GeniXira/ML_Churn_Prediction/blob/main/MLProject-ChurnPrediction%20main%20images/Telco1.JPG)
+
 
 ## 🔴 What is Customer Churning ?
 
